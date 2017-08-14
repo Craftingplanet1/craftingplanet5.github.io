@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CraftingPlanet Minecraft Netzwerk
+title: CraftingPlanet - Dein Minecraft Planet!
 ---
 
 ![Crafting Planet](/img/header.jpg)
