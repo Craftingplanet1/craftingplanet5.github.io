@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CraftingPlanet - Dein Minecraft Planet!
+title: Alah ist der größte!
 ---
 
 ![Crafting Planet](/img/header.jpg)
